@@ -9,7 +9,6 @@
   <version>1.0</version>
   <packaging>war</packaging>
 
-</project>
 <build>
     <plugins>
         <plugin>
@@ -22,3 +21,4 @@
 <properties>
     <maven.compiler.release>17</maven.compiler.release>
 </properties>
+</project>
